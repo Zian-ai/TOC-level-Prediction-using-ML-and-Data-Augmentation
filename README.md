@@ -13,7 +13,7 @@ This study explores how future climate change may affect Total Organic Carbon (T
    - Validate the realism of Synthetic data to Real data with Kolmogorov-Smirnov Test, Anderson-Darling Test, and Energy-Distance tests.
 
 3. **Nine ML Model training & Hyperparamter Optimization using Optuna**  
-   - Split augmented data 80/20 (train/test).  
+   - Split the Real data 80/20 (train/test).  
    - Optimize hyperparameters for nine ML algorithms (DT, RF, GB, XGB, SVR, RR, LL, M5, M5-SGB) using Optuna.
 
 4. **TOC level projection of 12 GCM under Climate Change scenario (SSP2-4.5 and SSP5-8.5)**  
