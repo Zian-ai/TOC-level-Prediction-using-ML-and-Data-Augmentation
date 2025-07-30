@@ -21,7 +21,6 @@ This study explores how future climate change may affect Total Organic Carbon (T
 
 5. **Trend analysis**  
    - Detect monotonic changes with Mann–Kendall and quantify slopes with Sen’s estimator.  
-   - Examine seasonality (spring, summer, autumn) for intra-annual patterns.
 
 **INSTALL REQUIREMENTS**
 -Install the required packages: python, tensorflow, numpy, matplotlib packages
