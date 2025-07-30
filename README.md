@@ -11,7 +11,7 @@ Workflow Summary
    - Train a WGAN under varying epochs (100, 200, 300, 500, 1000, 1500, 3000) and data augmentation ratios (1:3, 1:5 and 1:10).  
    - Validate the realism of Synthetic data to Real data with Kolmogorov-Smirnov Test, Anderson-Darling Test, and Energy-Distance tests.
 
-3. **9 ML Model training & Hyperparamter Optimization using Optuna**  
+3. ** Nine ML Model training & Hyperparamter Optimization using Optuna**  
    - Split augmented data 80/20 (train/test).  
    - Optimize hyperparameters for nine ML algorithms (DT, RF, GB, XGB, SVR, RR, LL, M5, M5-SGB) using Optuna.
 
