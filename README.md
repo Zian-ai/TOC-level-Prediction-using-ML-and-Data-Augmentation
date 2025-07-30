@@ -33,3 +33,7 @@ This study explores how future climate change may affect Total Organic Carbon (T
 2. Ensure you have the necessary dependencies installed.
 3. Modify each python file to set the correct paths for your data and model directories.
 4. Run each python script to start the training process.
+
+**ABOUT THE AUTHOR**
+Christian Joseph Siose, Kangwon National University
+Email: christiansiose18@gmail.com
