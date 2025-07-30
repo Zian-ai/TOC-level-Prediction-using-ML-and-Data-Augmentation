@@ -15,7 +15,7 @@ Workflow Summary
    - Split augmented data 80/20 (train/test).  
    - Optimize hyperparameters for nine ML algorithms (DT, RF, GB, XGB, SVR, RR, LL, M5, M5-SGB) using Optuna.
 
-4. **TOC level projection of 12 GCM under Climate Change scenarip (SSP2-4.5 and SSP5-8.5)**  
+4. **TOC level projection of 12 GCM under Climate Change scenario (SSP2-4.5 and SSP5-8.5)**  
    - Deploy best model to forecast TOC level from 2025–2100 under SSP2-4.5 & SSP5-8.5 across 12 GCMs.
 
 5. **Trend analysis**  
