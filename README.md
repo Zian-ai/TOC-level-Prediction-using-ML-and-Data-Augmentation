@@ -9,7 +9,7 @@ This study explores how future climate change may affect Total Organic Carbon (T
    - Gather TOC observations data and Input data (Precipitation, Minimum Temperature, Maximum Temperature and Relative Humidity) from the period of 2011–2024 and collect CMIP6 climate projections for 2025 to 2100.   
 
 2. **WGAN data augmentation**  
-   - Train a WGAN under varying epochs (100, 200, 300, 500, 1000, 1500, 3000) and data augmentation ratios (1:3, 1:5 and 1:10).  
+   - Create a Synthetic data and find the optimal training strategies of WGAN under varying epochs (100, 200, 300, 500, 1000, 1500, 3000) and data augmentation ratios (1:3, 1:5 and 1:10).  
    - Validate the realism of Synthetic data to Real data with Kolmogorov-Smirnov Test, Anderson-Darling Test, and Energy-Distance tests.
 
 3. **Nine ML Model training & Hyperparamter Optimization using Optuna**  
