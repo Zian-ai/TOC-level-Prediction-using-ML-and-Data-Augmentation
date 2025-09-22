@@ -6,7 +6,7 @@ This study explores how future climate change may affect Total Organic Carbon (T
 
 **METHODOLOGY**
 1. **Data Collection**  
-   - Gather TOC observations data and Input data (Precipitation, Minimum Temperature, Maximum Temperature and Relative Humidity) from the period of 2011–2024 and collect CMIP6 climate projections for 2025 to 2100.   
+   - Gather TOC observations data and Input data (Precipitation, Minimum Temperature, Maximum Temperature and Relative Humidity) from the period of 2011–2024 and collect 12 GCM from CMIP6 climate projections for 2025 to 2100.   
 
 2. **WGAN data augmentation**  
    - Generate synthetic data using a WGAN trained for 3,000 epochs, targeting a synthetic-to-real ratio of 5:1.   
